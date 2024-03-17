@@ -42,9 +42,8 @@
 
 <h3> 
   
-  💫 보다 더 자세한 내용은 [PPT](https://github.com/Aribabo/Movie/blob/main/%EC%98%81%ED%99%94%ED%9D%A5%ED%96%89%EC%84%B1%EA%B3%B5%EC%9A%94%EC%9D%B8%EB%B6%84%EC%84%9D%EB%B0%8F%EA%B4%80%EB%9E%8C%EA%B0%9D%EC%88%98%EC%98%88%EC%B8%A1.pdf)에서 확인할 수 있습니다. 
+  📰 자세한 내용은 [PPT](https://github.com/Aribabo/Movie/blob/main/%EC%98%81%ED%99%94%ED%9D%A5%ED%96%89%EC%84%B1%EA%B3%B5%EC%9A%94%EC%9D%B8%EB%B6%84%EC%84%9D%EB%B0%8F%EA%B4%80%EB%9E%8C%EA%B0%9D%EC%88%98%EC%98%88%EC%B8%A1.pdf)에서 확인할 수 있습니다. 
 </h3>  
-
 
 
 
